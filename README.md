@@ -19,14 +19,14 @@ This project lets users input details about a used car — company, model, year,
 ## Screenshots
 
 Homepage:
-![Homepage](screenshots/homepage.png)
+![Homepage](car_price_prediction/screenshots/homepage.png)
 
 Prediction Result:
-![Prediction](screenshots/prediction.png)
+![Prediction](car_price_prediction/screenshots/prediction.png)
 
 
 Mobile View:
-![Mobile View](screenshots/mobile_view.png)
+![Mobile View](car_price_prediction/screenshots/mobile_view.png)
 
 ---
 
