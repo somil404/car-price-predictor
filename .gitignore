@@ -1,3 +1,4 @@
-python_basics/
-hello.html
-requirements.txt
+kaggle.json 
+__pycache__/ 
+*.pyc 
+venv/ 
