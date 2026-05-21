@@ -2,6 +2,8 @@
 
 A machine learning web application that predicts used car prices based on key vehicle attributes. Built with a Linear Regression model served through a Flask backend and a Bootstrap 5 + HTML5 frontend.
 
+---
+
 # Live Demo
 https://car-price-predictor-1-y2xq.onrender.com/
 
@@ -10,6 +12,21 @@ https://car-price-predictor-1-y2xq.onrender.com/
 ## 📸 Overview
 
 This project lets users input details about a used car — company, model, year, fuel type, and kilometers driven — and get an instant price prediction powered by a trained ML model.
+
+
+---
+
+## Screenshots
+
+Homepage:
+![Homepage](screenshots/homepage.png)
+
+Prediction Result:
+![Prediction](screenshots/prediction.png)
+
+
+Mobile View:
+![Mobile View](screenshots/mobile_view.png)
 
 ---
 
