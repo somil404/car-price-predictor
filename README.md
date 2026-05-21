@@ -220,4 +220,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Somil Agrawal**
-username: somil404
+[GitHub](https://github.com/somil404)
+[LinkedIn](https://linkedin.com/in/somil-agrawal-8218a0333)
